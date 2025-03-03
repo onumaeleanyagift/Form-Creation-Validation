@@ -29,7 +29,7 @@ A simple user registration form with client-side validation using HTML, CSS, and
 
 
 ## 🖥️ Preview
-![Form Preview](preview.png)
+![Form Preview](preview.PNG)
 
 ## 📌 Future Improvements
 - Stronger email validation using regex
